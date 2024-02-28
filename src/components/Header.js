@@ -59,7 +59,7 @@ const Header = () => {
               onClick={navbarToggleHandler}
               src={logo}
               alt="Creations Logo"
-              height={30}
+              height={60}
               width={140}
               className="h-full object-contain scale-125"
             />
