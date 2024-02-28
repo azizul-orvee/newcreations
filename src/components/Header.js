@@ -51,7 +51,7 @@ const Header = () => {
             scroll ? "border-b-2" : "bg-white"
           }`}
       >
-        <div className="container">
+        <div className="container p-5">
           <div className="relative -mx-4 flex items-center justify-center">
             <div className="w-60 max-w-full px-4 xl:mr-12 ml-5">
               <Link href="/" className={"header-logo block w-full py-1"}>
@@ -61,7 +61,7 @@ const Header = () => {
               alt="Creations Logo"
               height={60}
               width={140}
-              className="h-full object-contain scale-125"
+              className="h-full object-contain scale-150"
             />
               </Link>
             </div>
