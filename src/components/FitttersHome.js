@@ -32,8 +32,8 @@ const FittersHome = () => {
               <p className="mt-4"> If you have found us on Google, you are only minutes away from mobile tyre fitting. Need a tyre change at home, work, or beside the road? <br />
              We are here for you. Our expert team is ready to deliver quality service at great prices, covering a wide area of the UK for your convenience.</p>
               <p className="mt-4">
-  For immediate assistance, give us a <span className="text-red-600 underline"> <a href='tel:03300432940'>call</a>
-    </span> or send us a <span className="text-red-600 underline"> <a href="https://wa.me/+443300432940">WhatsApp</a> </span>  message.
+  For immediate assistance, give us a <span className="text-red-600 underline"> <a href='tel:03300432801'>call</a>
+    </span> or send us a <span className="text-red-600 underline"> <a href="https://wa.me/+443300432801">WhatsApp</a> </span>  message.
 </p>
 <p className="mt-4">
 You can also check mobile tyre fitting availability directly on our website.

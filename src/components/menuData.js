@@ -40,6 +40,12 @@ const menuData = [
         path: "/emergency-mobile-tyre-fitting",
         newTab: false,
       },
+      {
+        id: 49,
+        title: "Breakdown Recovery",
+        path: "/breakdown-recovery",
+        newTab: false,
+      },
     ],
   },
 ];

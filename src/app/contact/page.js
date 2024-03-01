@@ -8,7 +8,7 @@ const page = () => {
 
     <h2 className="text-xl font-semibold mb-2">How to Reach Us</h2>
     <p className="font-bold mb-2">By Phone or WhatsApp</p>
-    <p className="mb-4">For immediate assistance or to request our services, please give us a call or send us a WhatsApp message at <a href="tel:+443300432940" className="text-blue-500">+443300432801</a>. Our team is available 24/7 to answer your call, respond to your messages, and dispatch help to your location anywhere in the UK.</p>
+    <p className="mb-4">For immediate assistance or to request our services, please give us a call or send us a WhatsApp message at <a href="tel:+443300432801" className="text-blue-500">+443300432801</a>. Our team is available 24/7 to answer your call, respond to your messages, and dispatch help to your location anywhere in the UK.</p>
 
     <p className="font-bold mb-2">By Email</p>
     <p className="mb-4">For inquiries, feedback, or more detailed questions, feel free to reach out to us via email at <a href="mailto:support@Creations.co.uk" className="text-blue-500">support@creations.co.uk</a>. We aim to respond to all email communications promptly, ensuring that you receive the information and support you need without delay.</p>

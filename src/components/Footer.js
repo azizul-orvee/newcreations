@@ -32,7 +32,7 @@ const Footer = () => {
           className={`md:hidden w-full py-2 bg-blue-gray-50 text-black fixed bottom-0`}
         >
           <div className="flex justify-evenly items-center">
-            <a href='tel:03300432940'>
+            <a href='tel:03300432801'>
             <div className="px-6 py-1 bg-gray-300 rounded-lg shadow-md cursor-pointer flex items-center gap-1 justify-center">
               <div className="icon-container custom-ping-animation">
                 <MdWifiCalling3 size={50} style={{ fill: "#dd6b20" }} />
@@ -109,7 +109,7 @@ const Footer = () => {
                   <p>Email:<a href="mailto:support@creationsmobiletyre.co.uk" className="text-blue-500">support@creationsmobiletyre.co.uk</a></p>
                 </li>
                 <li>
-                  <p>Phone:<a href='tel:03300432940'>03300 432 801</a></p>
+                  <p>Phone:<a href='tel:03300432801'>03300 432 801</a></p>
                 </li>
               </ul>
             </div>
