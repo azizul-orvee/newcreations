@@ -90,7 +90,7 @@ const Customers = () => {
               className="py-2 px-4 border-b border-orange-600 text-gray-800 focus:outline-none"
             />
             <button
-              className="bg-orange-600 text-white shadow-md shadow-orange-200 py-3 px-6 rounded-md mt-4"
+              className="bg-red-600 text-white shadow-md shadow-red-200 py-3 px-6 rounded-md mt-4"
             >
               Check Availability Online
             </button>
@@ -140,7 +140,7 @@ const Customers = () => {
           />
           <button
           id="Form-track"
-            className="bg-orange-600 text-white py-2 px-4 shadow-md shadow-orange-200 rounded-md mt-4 hover:bg-orange-800 transition duration-300"
+            className="bg-red-600 text-white py-2 px-4 shadow-md shadow-red-200 rounded-md mt-4 hover:bg-red-800 transition duration-300"
           >
             Check Availability Instantly 
           </button>

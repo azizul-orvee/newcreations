@@ -22,8 +22,8 @@ const EmergencyHome = () => {
           </div>
           <div className="md:w-1/2 flex justify-center items-center text-center">
             <div>
-              <h1 className="text-4xl font-bold mt-8 text-gray-900 font-sans">Emergency 
-                Mobile <span className="text-red-600">Tyre</span> Fitting
+              <h1 className="text-4xl font-bold mt-8 text-gray-900 font-sans">Breakdown 
+                Recovery
               </h1>
               <br />
               <h2 className="italic font-palanquin font-semibold text-xl animate-pulse bg-blue-50 duration-1000 rounded-2xl p-1 shadow-2xl">Fast, Nationwide Tyre Service: Aiming for 
