@@ -35,7 +35,7 @@ const Footer = () => {
             <a href='tel:03300432801'>
             <div className="px-6 py-1 bg-gray-300 rounded-lg shadow-md cursor-pointer flex items-center gap-1 justify-center">
               <div className="icon-container custom-ping-animation">
-                <MdWifiCalling3 size={50} style={{ fill: "#dd6b20" }} />
+                <MdWifiCalling3 size={50} style={{ fill: "#f44336" }} />
               </div>
               <div className="">
                 
