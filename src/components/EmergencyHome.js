@@ -33,7 +33,7 @@ const EmergencyHome = () => {
              <p className="mt-4"> Finding us on Google means you are just a step away from the ultimate convenience in emergency mobile tyre fitting. We are ready and available to bring our expert tyre fitting services directly to you. We cover most of the UK.</p>
               <p className="mt-4">
   For immediate assistance, give us a <span className="text-red-600 underline"> <a href='tel:03300432801'>call</a>
-    </span> or send us a <span className="text-red-600 underline"> <a href="https://wa.me/+443300432801">WhatsApp</a> </span>  message.
+    </span> or send us a <span className="text-red-600 underline"> <a href="https://wa.me/+447935390891">WhatsApp</a> </span>  message.
 </p>
 <p className="mt-4">
 You can also check emergency mobile tyre fitting availability directly on our website.

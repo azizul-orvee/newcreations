@@ -33,7 +33,7 @@ const BreakdownHome = () => {
                  <p className="mt-4">Experience peace of mind with our Breakdown Recovery Service, your immediate solution to unexpected vehicle troubles. Available 24/7, our expert team ensures rapid, reliable assistance nationwide, getting you back on the road swiftly and safely. Whether it is a flat tire, engine failure, or anything in between, trust us to be there when you need us most.</p>
                   <p className="mt-4">
       For immediate assistance, give us a <span className="text-red-600 underline"> <a href='tel:03300432801'>call</a>
-        </span> or send us a <span className="text-red-600 underline"> <a href="https://wa.me/+443300432801">WhatsApp</a> </span>  message.
+        </span> or send us a <span className="text-red-600 underline"> <a href="https://wa.me/+447935390891">WhatsApp</a> </span>  message.
     </p>
     <p className="mt-4">
     You can also check emergency recovery availability directly on our website.

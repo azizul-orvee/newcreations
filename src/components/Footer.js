@@ -46,7 +46,7 @@ const Footer = () => {
             </a>
             {/* WhatsApp logo or icon */}
             <div className="bg-gray-300 px-5 py-2 rounded-lg shadow-md cursor-pointer">
-              <a href="https://wa.me/+443300432801">
+              <a href="https://wa.me/+447935390891">
                 <svg
                   width="50"
                   height="50"
